@@ -1,0 +1,235 @@
+ProductKey,ProductCategory,ProductName
+1,Electronics,iPhone 14 Pro
+2,Home Appliances,Dyson V11 Vacuum
+3,Clothing,Levi's 501 Jeans
+4,Books,The Da Vinci Code
+5,Beauty Products,Neutrogena Skincare Set
+6,Sports,Wilson Evolution Basketball
+7,Electronics,MacBook Pro 16-inch
+8,Home Appliances,Blueair Classic 480i
+9,Clothing,Nike Air Force 1
+10,Books,Dune by Frank Herbert
+11,Beauty Products,Chanel No. 5 Perfume
+12,Sports,Babolat Pure Drive Tennis Racket
+13,Electronics,Samsung Galaxy Tab S8
+14,Home Appliances,Keurig K-Elite Coffee Maker
+15,Clothing,North Face Down Jacket
+16,Books,"Salt, Fat, Acid, Heat by Samin Nosrat"
+17,Beauty Products,Dyson Supersonic Hair Dryer
+18,Sports,Manduka PRO Yoga Mat
+19,Electronics,Garmin Forerunner 945
+20,Home Appliances,Ninja Professional Blender
+21,Clothing,Zara Summer Dress
+22,Books,Gone Girl by Gillian Flynn
+23,Beauty Products,Olay Regenerist Face Cream
+24,Sports,Adidas FIFA World Cup Football
+25,Electronics,Bose QuietComfort 35 Headphones
+26,Home Appliances,Panasonic NN-SN966S Microwave
+27,Clothing,Adidas Ultraboost Shoes
+28,Books,Pride and Prejudice by Jane Austen
+29,Beauty Products,MAC Ruby Woo Lipstick
+30,Sports,Nike Air Zoom Pegasus 37
+31,Electronics,Sony WH-1000XM4 Headphones
+32,Home Appliances,Instant Pot Duo
+33,Clothing,Under Armour HeatGear T-Shirt
+34,Books,1984 by George Orwell
+35,Beauty Products,L'Oreal Revitalift Serum
+36,Sports,Peloton Bike
+37,Electronics,Apple Watch Series 8
+38,Home Appliances,Roomba i7+
+39,Clothing,Columbia Fleece Jacket
+40,Books,Harry Potter and the Sorcerer's Stone
+41,Beauty Products,Estee Lauder Advanced Night Repair
+42,Sports,Fitbit Charge 5
+43,Electronics,GoPro HERO10 Black
+44,Home Appliances,Nespresso VertuoPlus
+45,Clothing,Patagonia Better Sweater
+46,Books,Becoming by Michelle Obama
+47,Beauty Products,Clinique Moisture Surge
+48,Sports,Yeti Rambler Tumbler
+49,Electronics,Kindle Paperwhite
+50,Home Appliances,Breville Smart Oven
+51,Clothing,Ray-Ban Aviator Sunglasses
+52,Books,The Silent Patient by Alex Michaelides
+53,Beauty Products,Shiseido Ultimate Sun Protector
+54,Sports,Titleist Pro V1 Golf Balls
+55,Electronics,Anker PowerCore Portable Charger
+56,Home Appliances,KitchenAid Artisan Stand Mixer
+57,Clothing,Calvin Klein Boxer Briefs
+58,Books,Educated by Tara Westover
+59,Beauty Products,Anastasia Beverly Hills Brow Wiz
+60,Sports,Hyperice Hypervolt Massager
+61,Electronics,Nintendo Switch
+62,Home Appliances,Philips Airfryer XXL
+63,Clothing,Hanes ComfortSoft T-Shirt
+64,Books,Where the Crawdads Sing by Delia Owens
+65,Beauty Products,Lancome La Vie Est Belle
+66,Sports,Garmin Edge 530
+67,Electronics,Samsung QLED 4K TV
+68,Home Appliances,Eufy RoboVac 11S
+69,Clothing,Puma Suede Classic Sneakers
+70,Books,The Great Gatsby by F. Scott Fitzgerald
+71,Beauty Products,Drunk Elephant C-Firma Day Serum
+72,Sports,Nike Metcon 6
+73,Electronics,HP Spectre x360 Laptop
+74,Home Appliances,De'Longhi Magnifica Espresso Machine
+75,Clothing,Tommy Hilfiger Polo Shirt
+76,Books,To Kill a Mockingbird by Harper Lee
+77,Beauty Products,Glossier Boy Brow
+78,Sports,Rogue Fitness Kettlebell
+79,Electronics,Apple AirPods Pro
+80,Home Appliances,Dyson Pure Cool Link
+81,Clothing,Levi's Trucker Jacket
+82,Books,The Hobbit by J.R.R. Tolkien
+83,Beauty Products,Charlotte Tilbury Magic Cream
+84,Sports,Spalding NBA Street Basketball
+85,Electronics,Ring Video Doorbell
+86,Home Appliances,LG OLED TV
+87,Clothing,Uniqlo Ultra Light Down Jacket
+88,Books,The Catcher in the Rye by J.D. Salinger
+89,Beauty Products,Sunday Riley Good Genes
+90,Sports,On Running Cloud Shoes
+91,Electronics,Logitech MX Master 3 Mouse
+92,Home Appliances,Instant Pot Duo Crisp
+93,Clothing,Adidas Originals Superstar Sneakers
+94,Books,The Alchemist by Paulo Coelho
+95,Beauty Products,Tatcha The Water Cream
+96,Sports,Garmin Fenix 6X Pro
+97,Electronics,Bose SoundLink Revolve+ Speaker
+98,Home Appliances,Vitamix Explorian Blender
+99,Clothing,Gap Essential Crewneck T-Shirt
+100,Books,The Power of Now by Eckhart Tolle
+101,Beauty Products,Kiehl's Midnight Recovery Concentrate
+102,Sports,Under Armour HOVR Sonic 4 Shoes
+103,Electronics,Canon EOS R5 Camera
+104,Home Appliances,Shark IQ Robot Vacuum
+105,Clothing,H&M Slim Fit Jeans
+106,Books,The Girl on the Train by Paula Hawkins
+107,Beauty Products,The Ordinary Niacinamide Serum
+108,Sports,Bowflex SelectTech 552 Dumbbells
+109,Electronics,Google Nest Hub Max
+110,Home Appliances,Cuisinart Griddler Deluxe
+111,Clothing,Old Navy Relaxed-Fit T-Shirt
+112,Books,Sapiens: A Brief History of Humankind by Yuval Noah Harari
+113,Beauty Products,Biore UV Aqua Rich Watery Essence Sunscreen
+114,Sports,Fitbit Versa 3
+115,Electronics,Amazon Echo Show 10
+116,Home Appliances,Breville Smart Grill
+117,Clothing,Gap High Rise Skinny Jeans
+118,Books,Atomic Habits by James Clear
+119,Beauty Products,CeraVe Hydrating Facial Cleanser
+120,Sports,YETI Hopper Flip Portable Cooler
+121,Electronics,Apple iPad Air
+122,Home Appliances,Hamilton Beach FlexBrew Coffee Maker
+123,Clothing,Forever 21 Graphic Tee
+124,Books,The Subtle Art of Not Giving a F*ck by Mark Manson
+125,Beauty Products,NARS Radiant Creamy Concealer
+126,Sports,Yeti Roadie 24 Cooler
+127,Electronics,Sony PlayStation 5
+128,Home Appliances,Dyson Supersonic Hair Dryer
+129,Clothing,Lululemon Align Leggings
+130,Books,The Four Agreements by Don Miguel Ruiz
+131,Beauty Products,Fenty Beauty Killawatt Highlighter
+132,Sports,Hydro Flask Wide Mouth Water Bottle
+133,Electronics,Microsoft Surface Laptop 4
+134,Home Appliances,Keurig K-Mini Coffee Maker
+135,Clothing,Gap Crewneck Sweatshirt
+136,Books,Think and Grow Rich by Napoleon Hill
+137,Beauty Products,The Ordinary Hyaluronic Acid Serum
+138,Sports,Fitbit Inspire 2
+139,Electronics,Samsung Odyssey G9 Gaming Monitor
+140,Home Appliances,Instant Pot Ultra
+141,Clothing,Adidas Essential Track Pants
+142,Books,The Power of Habit by Charles Duhigg
+143,Beauty Products,Clinique Dramatically Different Moisturizing Lotion
+144,Sports,YETI Tundra 45 Cooler
+145,Electronics,Apple AirPods Max
+146,Home Appliances,Cuisinart Coffee Center
+147,Clothing,Levi's Sherpa Trucker Jacket
+148,Books,The Outsiders by S.E. Hinton
+149,Beauty Products,Laneige Water Sleeping Mask
+150,Sports,Bose SoundSport Wireless Earbuds
+151,Home Appliances,Ninja Foodi Pressure Cooker
+152,Clothing,Nike Sportswear Club Fleece Hoodie
+153,Books,The Night Circus by Erin Morgenstern
+154,Beauty Products,GlamGlow Supermud Clearing Treatment
+155,Sports,Garmin Forerunner 245
+156,Electronics,Google Pixel 6 Pro
+157,Home Appliances,Breville Nespresso Creatista Plus
+158,Clothing,Under Armour Tech 2.0 T-Shirt
+159,Books,The Art of War by Sun Tzu
+160,Beauty Products,Youth to the People Superfood Antioxidant Cleanser
+161,Sports,TriggerPoint GRID Foam Roller
+162,Electronics,Apple MacBook Air
+163,Home Appliances,Cuisinart Custom 14-Cup Food Processor
+164,Clothing,Adidas 3-Stripes Shorts
+165,Books,The Hunger Games by Suzanne Collins
+166,Beauty Products,Neutrogena Hydro Boost Water Gel
+167,Sports,Yeti Rambler Bottle
+168,Electronics,Samsung Odyssey G7 Gaming Monitor
+169,Home Appliances,Instant Pot Duo Evo Plus
+170,Clothing,Nike Tempo Running Shorts
+171,Books,The Girl with the Dragon Tattoo by Stieg Larsson
+172,Beauty Products,Paula's Choice Skin Perfecting 2% BHA Liquid Exfoliant
+173,Sports,Bowflex SelectTech 1090 Adjustable Dumbbells
+174,Electronics,Amazon Fire TV Stick 4K
+175,Home Appliances,Crock-Pot 6-Quart Slow Cooker
+176,Clothing,Uniqlo Airism Mesh Boxer Briefs
+177,Books,The Sun Also Rises by Ernest Hemingway
+178,Beauty Products,First Aid Beauty Ultra Repair Cream
+179,Sports,Oakley Holbrook Sunglasses
+180,Electronics,Google Pixelbook Go
+181,Home Appliances,Dyson V8 Absolute
+182,Clothing,Levi's 511 Slim Fit Jeans
+183,Books,The Martian by Andy Weir
+184,Beauty Products,La Mer Crème de la Mer Moisturizer
+185,Sports,Polar Vantage V2
+186,Electronics,Sonos Beam Soundbar
+187,Home Appliances,Anova Precision Cooker
+188,Clothing,Nike Dri-FIT Training Shorts
+189,Beauty Products,Glossier Cloud Paint
+190,Sports,TRX All-in-One Suspension Training System
+191,Electronics,Logitech G Pro X Wireless Gaming Headset
+192,Home Appliances,Breville Smart Coffee Grinder Pro
+193,Clothing,Adidas Ultraboost Running Shoes
+194,Books,The Road by Cormac McCarthy
+195,Beauty Products,Tom Ford Black Orchid Perfume
+196,Sports,GoPro HERO9 Black
+197,Electronics,Apple TV 4K
+198,Home Appliances,Instant Pot Duo Nova
+199,Clothing,Gap 1969 Original Fit Jeans
+200,Books,The Goldfinch by Donna Tartt
+201,Beauty Products,Dr. Jart+ Cicapair Tiger Grass Color Correcting Treatment
+202,Sports,Yeti Tundra Haul Portable Wheeled Cooler
+203,Electronics,Samsung Galaxy Watch 4
+204,Home Appliances,KitchenAid Stand Mixer
+205,Clothing,Lululemon Wunder Under High-Rise Leggings
+206,Books,The Great Alone by Kristin Hannah
+207,Beauty Products,Caudalie Vinoperfect Radiance Serum
+208,Sports,Bose SoundLink Color Bluetooth Speaker II
+209,Electronics,Canon EOS Rebel T7i DSLR Camera
+210,Clothing,Uniqlo Airism Seamless Boxer Briefs
+211,Beauty Products,L'Occitane Shea Butter Hand Cream
+212,Sports,YETI Tundra 65 Cooler
+213,Electronics,Apple MacBook Pro 16-inch
+214,Home Appliances,iRobot Braava Jet M6
+215,Clothing,Champion Reverse Weave Hoodie
+216,Books,The Nightingale by Kristin Hannah
+217,Beauty Products,Tarte Shape Tape Concealer
+218,Sports,Garmin Forerunner 945
+219,Electronics,Amazon Echo Dot (4th Gen)
+220,Home Appliances,Philips Sonicare DiamondClean Toothbrush
+221,Clothing,Old Navy Mid-Rise Rockstar Super Skinny Jeans
+222,Beauty Products,The Ordinary Caffeine Solution 5% + EGCG
+223,Sports,Fitbit Luxe
+224,Electronics,Google Nest Wifi Router
+225,Home Appliances,Anova Precision Oven
+226,Clothing,Adidas Originals Trefoil Hoodie
+227,Beauty Products,Fresh Sugar Lip Treatment
+228,Sports,Hydro Flask Standard Mouth Water Bottle
+229,Electronics,Bose QuietComfort 35 II Wireless Headphones
+230,Home Appliances,Nespresso Vertuo Next Coffee and Espresso Maker
+231,Clothing,Nike Air Force 1 Sneakers
+232,Books,The Handmaid's Tale by Margaret Atwood
+233,Beauty Products,Sunday Riley Luna Sleeping Night Oil
+234,Sports,Yeti Rambler 20 oz Tumbler
